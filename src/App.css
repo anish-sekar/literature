@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.player-deck {
+  height: 450px;
+  width: auto;
+  background-image: url("/img/PlayerDeckBackground.jpg");
+}
+
+.player-card {
+  height: 156px;
+  width: 120px;
+}
+
+.myCards {
+  display: table;
+  margin: 0 auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
